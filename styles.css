@@ -1,0 +1,58 @@
+
+body{
+    margin:0%;
+    text-align: center;
+    background-color: #D8E9A8;
+  
+}
+
+.division1{
+       color:#10581f;
+   }
+
+
+  
+  .image1{
+    position:absolute;
+      left:16rem;
+      top:15rem;
+      
+  }
+   
+
+.image2{
+    position: absolute;
+    right:15rem;
+    top:10rem;
+}
+.image3{
+    margin-top:15px;
+    height :20rem;
+    width:55rem;
+   
+}
+h1{ 
+    font-family: 'Sacramento', cursive;
+    font-size:3.5rem;
+}
+p{
+    font-size: 1.8rem;
+}
+.para2{
+    margin:0px auto 10px auto;
+}
+.para1{
+    margin-top:30px;
+}
+hr{
+    margin :20px auto 20px auto;
+    border-style: none;
+ border-top-style: dotted;
+ border-width: 5px;
+ width:7%;
+ border-color: rgb(46, 129, 46);
+
+   
+
+}
+    
